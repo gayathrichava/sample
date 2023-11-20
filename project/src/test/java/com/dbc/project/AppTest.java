@@ -1,4 +1,4 @@
-package com.dbc.new;
+package com.dbc.project;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

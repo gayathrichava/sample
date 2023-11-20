@@ -1,4 +1,4 @@
-package com.dbc.new;
+package com.dbc.project;
 
 /**
  * Hello world!
