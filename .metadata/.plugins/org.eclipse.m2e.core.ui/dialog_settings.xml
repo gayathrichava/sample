@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="Z:\DEVOPS\sample\src\main\java\com\dbc\sample\div.java"/>
+			<item value="Z:\DEVOPS\.metadata\.plugins\org.eclipse.e4.workbench\workbench.xmi"/>
 			<item value="Z:\DEVOPS"/>
 			<item value="Z:\DEVOPS\hello\src\main\java\com\dbc\hello\App.java"/>
 		</list>
@@ -27,13 +29,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.dbc.sample"/>
+			<item value="com.dbc.maven"/>
 		</list>
 		<list key="groupId">
 			<item value="com.dbc"/>
 		</list>
 		<list key="artifactId">
-			<item value="sample"/>
+			<item value="maven"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
