@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="Z:\DEVOPS\demo\src\main\java\com\dbc\demo\App.java"/>
 			<item value="Z:\DEVOPS\sample"/>
 			<item value="Z:\DEVOPS"/>
 			<item value="Z:\DEVOPS\sample\src\main\java\com\dbc\sample\div.java"/>
@@ -30,6 +31,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.dbc.aaaa"/>
 			<item value="com.dbc.aaa"/>
 			<item value="com.dbc.demo"/>
 			<item value="com.dbc.project"/>
@@ -40,6 +42,7 @@
 			<item value="com.dbc"/>
 		</list>
 		<list key="artifactId">
+			<item value="aaaa"/>
 			<item value="aaa"/>
 			<item value="demo"/>
 			<item value="project"/>
